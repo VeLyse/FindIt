@@ -1,6 +1,8 @@
-# Project IOS - *No name yet*
+# Project IOS - *FINDIT*
 
-**No name yet** is a app for students to find cheap apartments.
+**FindIt** 
+
+FindIt is a mobile application Ios develop to allow students leaving provincial cities to settle in the capital to find housing as quickly as possible, this application will also allow the person to find a roommate according to its criteria and choice.
 
 
 Time spent: **x** hours spent in total
@@ -40,7 +42,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-Copyright [2018] [Name of the team]
+Copyright [2018] [LyVeIt]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
