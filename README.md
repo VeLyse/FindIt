@@ -1,6 +1,8 @@
 # Project IOS - *FINDIT*
 
-**FindIt** FindIt is a mobile application Ios develop to allow students leaving provincial cities to settle in the capital to find housing as quickly as possible, this application will also allow the person to find a roommate according to its criteria and choice.
+**FindIt** 
+
+FindIt is a mobile application Ios develop to allow students leaving provincial cities to settle in the capital to find housing as quickly as possible, this application will also allow the person to find a roommate according to its criteria and choice.
 
 
 Time spent: **x** hours spent in total
